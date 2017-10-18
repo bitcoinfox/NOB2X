@@ -25,6 +25,7 @@
 - [BitBond](https://www.bitbond.com/) - Peer-to-peer Bitcoin loans
 - [Bitmex](https://www.bitmex.com/) - Bitcoin Exchange
 - [BitcoinBrains](http://bitcoinbrains.com) - Canada ATMs and online brokerage service
+- [Bitcoinfox](https://bitcoinfox.ru) - CryptoPortfolio and Blog
 - Bitcoin Cambodia - Cambodian Bitcoin broker
 - Bitcoin Romania - Largest Romanian Bitcoin exchange & broker
 - bitcoin.co.id - Indonesia's largest Bitcoin exchange
